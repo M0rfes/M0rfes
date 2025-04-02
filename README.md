@@ -1,6 +1,6 @@
 # Hi there, I'm FAHIM KHAN 👋
 
-## Sr. Software Consultant | Full Stack Developer | Rust & Go Enthusiast | AI/LLM Explorer
+## Sr. Software Consultant | Full Stack Developer | Rust & Go Enthusiast | AI/LLM & Web3 Explorer
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M0rfes/M0rfes/output/github-contribution-grid-snake-dark.svg">
@@ -10,7 +10,7 @@
 
 ---
 
-I'm a **Sr. Software Consultant** based in Abu Dhabi with **7+ years of experience** in full-stack web application development. I'm passionate about crafting high-performance, scalable, and innovative solutions using modern technologies, with a strong focus on **Rust**, **Go**, and **TypeScript**.
+I'm a **Sr. Software Consultant** based in Abu Dhabi with **7+ years of experience** in full-stack web application development. I'm passionate about crafting high-performance, scalable, and innovative solutions using modern technologies, with a strong focus on **Rust**, **Go**, **TypeScript**, and exploring the potential of **AI/LLMs** and **Web3**.
 
 Currently working as a **Full Time Consultant at Presight AI**, I'm focused on:
 *   Developing advanced dashboards for managing complex systems (like CCTV installations & algorithms).
@@ -22,10 +22,17 @@ I'm actively seeking opportunities within the **GCC region** to apply my technic
 
 ---
 
+### 💡 Open to Freelance Opportunities
+
+I am available for freelance projects, particularly those involving **Rust, Go, AI/LLM integration, Web3/Blockchain development (Solidity/Solana), API development, and Full Stack solutions**. Feel free to reach out via my contact details below if you have an interesting project!
+
+---
+
 ### 💻 Tech Stack & Skills
 
 *   **Core Languages:** Rust, Go, TypeScript, JavaScript
 *   **AI/ML:** LLMs, GenAI, AI Agents, MCPs, LLM Tool Calling
+*   **Web3/Blockchain:** Web3 Concepts, Solidity, Solana
 *   **Backend Frameworks/Libraries:** Node.js, Nestjs, Axum/Tokio (Rust), Express, Koa, Loopback, Go stdlib/frameworks
 *   **Frontend Frameworks/Libraries:** React, Next.js, Angular, Vue.js, React Native, Ionic
 *   **Databases:** MongoDB, PostgreSQL, Neo4j, AWS RDS, DynamoDB
@@ -38,8 +45,9 @@ I'm actively seeking opportunities within the **GCC region** to apply my technic
 
 ### 🌱 Currently Exploring & Building
 
-*   Deepening my expertise in **Rust** and **Go** for high-performance backend systems.
+*   Deepening my expertise in **Rust** and **Go** for high-performance systems.
 *   Building practical applications using **LLMs and Agentic AI** patterns.
+*   Developing smart contracts and dApps using **Solidity** and exploring the **Solana** ecosystem.
 *   Optimizing **CI/CD pipelines** and exploring advanced **Kubernetes** deployments.
 *   Contributing to the **Presight AI** platform's evolution.
 
@@ -49,7 +57,7 @@ I'm actively seeking opportunities within the **GCC region** to apply my technic
 
 *   **Email:** [fahimkhan20148@gmail.com](mailto:fahimkhan20148@gmail.com)
 *   **Mobile (UAE):** [Call](tel:+971507286133) / [WhatsApp](https://wa.me/971507286133) (+971 50 728 6133)
-*   **Mobile (India):** [Call](tel:+919167119031) / [WhatsApp](https://wa.me/919167119031) (+91 916711 9031)
+*   **Mobile (India):** [Call](tel:+9167119031) / [WhatsApp](https://wa.me/919167119031) (+91 91 6711 9031)
 *   **LinkedIn:** [Fahim Khan](https://www.linkedin.com/in/fahim-khan-232533346/)
 *   **GitHub:** [M0rfes](https://github.com/M0rfes) *(You are here!)*
 *   **X (Twitter):** [@M0rfes](https://x.com/M0rfes)
