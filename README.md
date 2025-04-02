@@ -49,7 +49,7 @@ I'm actively seeking opportunities within the **GCC region** to apply my technic
 
 *   **Email:** [fahimkhan20148@gmail.com](mailto:fahimkhan20148@gmail.com)
 *   **Mobile (UAE):** [Call](tel:+971507286133) / [WhatsApp](https://wa.me/971507286133) (+971 50 728 6133)
-*   **Mobile (India):** [Call](tel:+919167119031) / [WhatsApp](https://wa.me/9167119031) (+91 916711 9031)
+*   **Mobile (India):** [Call](tel:+919167119031) / [WhatsApp](https://wa.me/919167119031) (+91 916711 9031)
 *   **LinkedIn:** [Fahim Khan](https://www.linkedin.com/in/fahim-khan-232533346/)
 *   **GitHub:** [M0rfes](https://github.com/M0rfes) *(You are here!)*
 *   **X (Twitter):** [@M0rfes](https://x.com/M0rfes)
