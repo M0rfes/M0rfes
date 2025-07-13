@@ -67,6 +67,7 @@ I am available for freelance projects, particularly those involving **Rust, Go, 
 *   **TechHub Social:** [@Morfes@techhub.social](https://techhub.social/@Morfes)
 *   **Instagram:** [@m0rfes](https://www.instagram.com/m0rfes/)
 *   **Facebook:** [M0rfes](https://www.facebook.com/M0rfes)
+*   **Portfolio** [fahim.shonif.com/](https://fahim.shonif.com/)
 
 ---
 
