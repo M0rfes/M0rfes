@@ -10,7 +10,7 @@
 
 ---
 
-I'm a **Sr. Software Consultant** based in Abu Dhabi with **7+ years of experience** in full-stack web application development. I'm passionate about crafting high-performance, scalable, and innovative solutions using modern technologies, with a strong focus on **Rust**, **Go**, **TypeScript**, and exploring the potential of **AI/LLMs** and **Web3**.
+I'm a **Sr. Software Consultant** based in Abu Dhabi with **8+ years of experience** in full-stack web application development. I'm passionate about crafting high-performance, scalable, and innovative solutions using modern technologies, with a strong focus on **Rust**, **Go**, **TypeScript**, and exploring the potential of **AI/LLMs** and **Web3**.
 
 Currently working as a **Full Time Consultant at Presight AI**, I'm focused on:
 *   Developing advanced dashboards for managing complex systems (like CCTV installations & algorithms).
@@ -60,7 +60,6 @@ I am available for freelance projects, particularly those involving **Rust, Go, 
 *   **Mobile (India):** [Call](tel:+9167119031) / [WhatsApp](https://wa.me/919167119031) (+91 91 6711 9031)
 *   **LinkedIn:** [Fahim Khan](https://www.linkedin.com/in/fahim-khan-232533346/)
 *   **GitHub:** [M0rfes](https://github.com/M0rfes) *(You are here!)*
-*   **X (Twitter):** [@M0rfes](https://x.com/M0rfes)
 *   **Threads:** [@m0rfes](https://www.threads.net/@m0rfes)
 *   **BlueSky:** [@morfes.bsky.social](https://bsky.app/profile/morfes.bsky.social)
 *   **Mastodon:** [@Morfes@mastodon.social](https://mastodon.social/@Morfes)
